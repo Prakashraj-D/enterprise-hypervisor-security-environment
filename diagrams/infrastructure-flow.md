@@ -146,4 +146,3 @@ Virtual Machines
 - Centralized SIEM monitoring using Wazuh
 - Threat intelligence integration using MISP
 - Security workflow automation using n8n
-```so show you how to convert this into a **very clean visual diagram (SOC architecture diagram)** that will make your GitHub project look **10x more professional**.
