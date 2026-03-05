@@ -1,5 +1,4 @@
 # enterprise-hypervisor-security-environment
-## Secure Hypervisor Virtualization Environment with SIEM Integration
 
 ## Overview
 
